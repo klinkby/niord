@@ -18,6 +18,9 @@
         <jackson.version>2.12.1</jackson.version>
         <swagger.version>1.6.2</swagger.version>
         <batik.version>1.13</batik.version>
+        <!-- sonarcloud integration -->
+        <sonar.organization>klinkby</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 
     <dependencyManagement>
